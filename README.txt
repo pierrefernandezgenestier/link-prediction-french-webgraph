@@ -1,3 +1,6 @@
+This project was made as part of a Kaggle Project: https://www.kaggle.com/c/link-prediction-data-challenge-2019
+The goal was to predict the presence of links between websites, with NLP methods and Graph embeddings. Our team ranked 2° out of 54.
+
 The following libraries are required to run the python files for this project:
 - networkx
 - node2vec
